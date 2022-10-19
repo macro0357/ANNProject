@@ -1,2 +1,2 @@
 # ANNProject
-[deepwalk](https://www.runoob.com)
+[deepwalk](https://github.com/phanein/deepwalk)
